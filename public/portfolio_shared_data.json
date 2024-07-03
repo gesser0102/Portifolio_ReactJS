@@ -1,0 +1,50 @@
+{
+    "basic_info": {
+      "name": "Rodrigo Gesser",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/gesser0102",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/rodrigo-gesser-b5277a11a/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored"
+        },
+        {
+          "name": "Pyhton",
+          "class": "devicon-python-plain colored"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,11 @@
+body[data-theme="light"] {
+    @import './src/scss/light-slider.scss';
+ 
+    .slider-tab {
+       background-color: #8f8f8e;
+    }
+
+    .card-header{
+        background-color: rgb(219, 214, 214);
+    }
+}

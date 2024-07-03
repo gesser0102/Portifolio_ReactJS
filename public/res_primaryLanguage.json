@@ -1,0 +1,263 @@
+{
+  "basic_info": {
+    "description_header": "Olá",
+    "hide":"Esconder Projetos",
+    "show": "Mostrar Mais",
+    "name": "Rodrigo Gesser",
+    "titles": [ "Desenvolvedor Front-End"],
+    "description": "👋 Sou o Rodrigo, Desenvolvedor Front-End.",
+    "description2":"Aluno do curso de Sistemas de Informação. Focado em aprimorar habilidades e conhecimentos. Sou uma pessoa que adora desafios, mas em especial aqueles que me tiram da minha zona de conforto.",
+    "section_name": {
+      "about": "Sobre Mim",
+      "projects": "Projetos",
+      "skills": "Habilidades",
+      "contact": "Contato"
+    }
+  },
+  "projects": [
+    {
+      "title": "R.GESSER V2",
+      "images": [
+        "images/portfolio/rgesserv2/rgesserlight.jpg",
+        "images/portfolio/rgesserv2/rgesserdark.jpg"
+      ],
+      "url": "https://rgesser.tech",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
+    {
+      "title": "GitHub Profile Finder",
+      "images": [
+        "images/portfolio/finder/img1.png",
+        "images/portfolio/finder/img2.png",
+        "images/portfolio/finder/img3.png"
+      ],
+      "url": "https://finder.rgesser.tech/",
+      "url2": "https://github.com/gesser0102/github-finder-react",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "REACT"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailWindCSS"
+        }
+      ]
+    },
+    {
+      "title": "App Reservas FullStack ",
+      "images": [
+        "images/portfolio/reserva/app1.png",
+        "images/portfolio/reserva/app2.png"
+      ],
+      "url2": "https://github.com/gesser0102/FullStack-Reserva-App",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailWindCSS"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        }
+      ]
+    },
+    {
+      "title": "R.GESSER V1",
+      "images": [
+        "images/portfolio/rgesser/rgesser1.jpg"
+      ],
+      "url": "https://projetos.rgesser.tech/rgesserv1/",
+      "url2": "https://github.com/gesser0102/rgesser.tech",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "To-Do List",
+      "images": [
+        "images/portfolio/todo/todo.jpg",
+        "images/portfolio/todo/todo2.jpg"
+      ],
+      "url": "https://projetos.rgesser.tech/todo/index.html",
+      "url2": "https://github.com/gesser0102/Prog-Web/tree/main/to-do",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Formulário BootsTrap",
+      "images": [
+        "images/portfolio/forms-bootstrap/formsboots.jpg"
+      ],
+      "url": "https://projetos.rgesser.tech/formulario1/index.html",
+      "url2": "https://github.com/gesser0102/Prog-Web/tree/main/bootstrap/formulario",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        { 
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Formulário",
+      "images": [
+        "images/portfolio/forms/forms.jpg"
+      ],
+      "url": "https://projetos.rgesser.tech/formulario2/index.html",
+      "url2": "https://github.com/gesser0102/Prog-Web/tree/main/desafio",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Login Screen",
+      "images": [
+        "images/portfolio/login/login.jpg"
+      ],
+      "url": "https://login-screen-react-eosin.vercel.app/",
+      "url2": "https://github.com/gesser0102/Login-Screen-React",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    }
+  ],
+  "Contact": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "Email": [
+        "E-mail"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ],
+  "cv": {
+    "data": [
+      {
+        "title" :"Currículo",
+        "link": "https://rgesser.tech/downloads/cv.pdf"
+      }
+    ]
+  },
+
+  "form": {
+    "name": "Nome",
+    "email" : "E-mail",
+    "message" : "Mensagem",
+    "title": "Entrar em Contato"
+  },
+
+  "placeholder": {
+    "name": "Seu Nome",
+    "email": "Seu E-mail",
+    "message": "Escreva Sua Mensagem",
+    "send": "Enviar"
+  }
+
+
+}
